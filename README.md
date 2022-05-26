@@ -36,5 +36,5 @@
         alt="bootstrap" width="40" height="40" /> </a><a href="https://sass-lang.com/" target="_blank"> <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40"
         height="40" /> </a> <a href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16"
-    target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="react"
+    target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server"
         width="40" height="40" /> </a> </p>
