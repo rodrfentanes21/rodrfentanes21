@@ -7,6 +7,9 @@
 - Fluent English
 - Intermediate Spanish
 
+#### Miscellaneous (but could be of interest to someone reading this):
+European (Spanish) citizenship
+
 #### Contact: <fentanesrodrigo@gmail.com>
 
 <h3 align="left">Languages and Technologies:</h3>
