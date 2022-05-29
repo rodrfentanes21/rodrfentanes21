@@ -11,7 +11,7 @@
 #### Miscellaneous (but could be of interest to someone reading this):
 European citizenship.
 
-#### Contact: <a href="mailto:fentanesrodrigo@gmail.com.br?bcc=bbbbb&subject=cccccccccc&body=cccccccccccccccc">fentanesrodrigo@gmail.com.br</a>
+#### Contact: <a href="mailto:fentanesrodrigo@gmail.com?bcc=bbbbb&subject=cccccccccc&body=cccccccccccccccc">fentanesrodrigo@gmail.com</a>
 
 <h3 align="left">Languages and Technologies:</h3>
  <a href="https://www.cprogramming.com/" target="_blank"> <img
