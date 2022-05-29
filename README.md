@@ -1,4 +1,4 @@
-### Hi there, I'm Rodrigo Fentanes, Developer and Computer Science Student @ PUC Minas
+### Hi there, I'm Rodrigo Fentanes, Computer Science Student @ PUC Minas
 
 - I consider myself as someone with good communication skills and willing to help others and work on a collaborative environment, always excited about learning new technologies and challenging myself.
 - Currently I'm on the 3rd semester of my Computer Science Major, looking foward to opportunities to expand my knowledge.
