@@ -35,8 +35,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react"
         width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a><a href="https://sass-lang.com/" target="_blank"> <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40"
-        height="40" /> </a> <a href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16"
+        alt="bootstrap" width="40" height="40" /> </a> <a href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16"
     target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server"
         width="40" height="40" /> </a> </p>
