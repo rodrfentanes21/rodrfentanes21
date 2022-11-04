@@ -12,6 +12,7 @@
 - European citizenship.
 
 #### Contact: <a href="mailto:fentanesrodrigo@gmail.com">fentanesrodrigo@gmail.com</a>
+#### Linkedin: <a href="https://www.linkedin.com/in/rodrfentanes/">Rodrigo Fentanes</a>
 
 <h3 align="left">Languages and Technologies:</h3>
  <a href="https://www.cprogramming.com/" target="_blank"> <img
@@ -37,4 +38,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" /> </a> <a href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16"
     target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server"
-        width="40" height="40" /> </a> </p>
+        width="40" height="40" /> </a> <a href="https://nextjs.org/"
+    target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+           </a> </p>
