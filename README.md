@@ -9,7 +9,7 @@
 - Intermediate Spanish
 
 #### Miscellaneous (but could be of interest to someone reading this):
-- European citizenship.
+- European citizenship (Spanish).
 
 #### Contact: <a href="mailto:fentanesrodrigo@gmail.com">fentanesrodrigo@gmail.com</a>
 #### Linkedin: <a href="https://www.linkedin.com/in/rodrfentanes/">Rodrigo Fentanes</a>
