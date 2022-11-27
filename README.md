@@ -3,7 +3,7 @@
 - I consider myself as someone with good communication skills and willing to help others and work on a collaborative environment, always excited about learning new technologies and challenging myself.
 - Currently I'm on the 4th semester of my Computer Science Major.
 - Looking foward to opportunities to expand my knowledge.
-#### The languages that i speak are:
+#### Languages:
 - Native Portuguese
 - Fluent English
 - Intermediate Spanish
