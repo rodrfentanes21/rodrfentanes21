@@ -13,6 +13,7 @@
 
 #### Contact: <a href="mailto:fentanesrodrigo@gmail.com">fentanesrodrigo@gmail.com</a>
 #### Linkedin: <a href="https://www.linkedin.com/in/rodrfentanes/">Rodrigo Fentanes</a>
+#### Portfolio: <a href="https://rodrigofentanes.vercel.app/">Rodrigo Fentanes</a>
 
 <h3 align="left">Languages and Technologies:</h3>
  <a href="https://www.cprogramming.com/" target="_blank"> <img
