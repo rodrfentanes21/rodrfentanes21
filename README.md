@@ -46,4 +46,9 @@
     target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /></a> <a href="https://nodejs.org/en/"
     target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-          </a> </p>
+          </a>
+<a href="https://nodejs.org/en/"
+    target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="40" height="40" />
+          </a>
+ </p>
