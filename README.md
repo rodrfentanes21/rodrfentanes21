@@ -1,7 +1,7 @@
 ### Hi there, I'm Rodrigo Fentanes, Computer Science Student @ PUC Minas
 
 - I consider myself someone with good communication skills and willing to help others and work on a collaborative environment, always excited about learning new technologies and challenging myself.
-- Currently I'm on the 8th semester of my Computer Science Major.
+- Recently graduated in Computer Science.
 - Looking foward on opportunities to expand my knowledge.
 #### Languages:
 - Native Portuguese
