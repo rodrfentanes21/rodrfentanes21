@@ -1,4 +1,4 @@
-### Hi there, I'm Rodrigo Fentanes, Computer Science Student @ PUC Minas
+### Hi there, I'm Rodrigo Fentanes, Computer Science Bachelor and Fullstack Developer
 
 - I consider myself someone with good communication skills and willing to help others and work on a collaborative environment, always excited about learning new technologies and challenging myself.
 - Recently graduated in Computer Science.
