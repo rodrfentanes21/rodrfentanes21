@@ -6,7 +6,7 @@
 #### Languages:
 - Native Portuguese
 - Fluent English
-- Advanced Spanish
+- Fluent Spanish
 
 #### Miscellaneous (but could be of interest to someone reading this):
 - European citizenship (Spanish).
