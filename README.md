@@ -1,6 +1,5 @@
 ### Hi there, I'm Rodrigo Fentanes, Computer Science Bachelor and Fullstack Developer
 
-- I consider myself someone with good communication skills and willing to help others and work on a collaborative environment, always excited about learning new technologies and challenging myself.
 - Bachelor in Computer Science.
 - Currently working as Head of Development @ Orpheus
 #### Languages:
@@ -13,4 +12,3 @@
 
 #### Contact: <a href="mailto:fentanesrodrigo@gmail.com">fentanesrodrigo@gmail.com</a>
 #### Linkedin: <a href="https://www.linkedin.com/in/rodrfentanes/">Rodrigo Fentanes</a>
-#### Portfolio: <a href="https://rodrigofentanes.vercel.app/">rodrigofentanes.vercel.app</a>
